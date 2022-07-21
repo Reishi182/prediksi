@@ -51,7 +51,6 @@ requests==2.27.1
 scikit-learn==1.1.1
 scipy==1.8.1
 six==1.16.0
-sklearn==1.2.1
 stack-data==0.2.0
 statsmodels==0.13.2
 text-unidecode==1.3
